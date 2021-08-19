@@ -8,6 +8,7 @@ authors = ["LagrangeH <maxsergeev39@gmail.com>"]
 python = "^3.9"
 aiogram = "~=2.12"
 environs = "~=8.0"
+loguru = "^0.5.3"
 
 [tool.poetry.dev-dependencies]
 
